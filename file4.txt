@@ -1,0 +1,2 @@
+first line on new file4.txt
+done
