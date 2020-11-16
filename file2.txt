@@ -1,4 +1,4 @@
 first line
 second line
-third line
-done
+third line changed
+fourth line added
